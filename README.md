@@ -38,7 +38,7 @@ Coffee/
 ### 1. Fork or Clone
 
 ```bash
-git clone https://github.com/Virgo-Alpha/Coffee.git
+git clone https://github.com/dhruv-pandya-yt/Coffee-FastWebP.git
 cd Coffee
 ```
 
@@ -47,7 +47,7 @@ cd Coffee
 By default, the script points to:
 
 ```python
-STREAMLIT_URL = "https://benson-mugure-portfolio.streamlit.app/"
+STREAMLIT_URL = "https://fastwebp.streamlit.app/"
 ```
 
 You can override this by setting an environment variable in your workflow:
